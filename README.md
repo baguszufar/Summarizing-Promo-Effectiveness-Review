@@ -1,5 +1,5 @@
 # Summarizing-Promo-Effectiveness-Review
-Setiap 6 Bulan sekali (Akhir Semester) Omnichannel Jubelio mengadakan
+Setiap 6 Bulan sekali Omnichannel Jubelio mengadakan
 Promo Effectiveness Review, untuk melihat efektivitas dari PROMO CODE
 terhadap total penjualan dari salah satu marketplace.
 Sebagai reporting engineer ada beberapa Task yang perlu anda lakukan.
